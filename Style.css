@@ -1,0 +1,24 @@
+body {
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:bisque;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 {
+    padding-top: 100px;
+}
+
+iframe{
+    padding-bottom: 100px ;
+} 
